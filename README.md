@@ -1,6 +1,6 @@
 # My 1st Repo
 
 
-lollllll
+lollllll. This is kinda fun
 
 
